@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogService", "CatalogService\CatalogService.csproj", "{01171E88-0F80-408E-823E-5AB4DAAD698A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogServiceTests", "CatalogServiceTests\CatalogServiceTests.csproj", "{9E12E1F6-7947-40EB-A564-481028B706FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01171E88-0F80-408E-823E-5AB4DAAD698A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01171E88-0F80-408E-823E-5AB4DAAD698A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01171E88-0F80-408E-823E-5AB4DAAD698A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01171E88-0F80-408E-823E-5AB4DAAD698A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E12E1F6-7947-40EB-A564-481028B706FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E12E1F6-7947-40EB-A564-481028B706FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E12E1F6-7947-40EB-A564-481028B706FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E12E1F6-7947-40EB-A564-481028B706FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E6EEB2-4BA7-489D-88FA-ABB01393CEB2}
+	EndGlobalSection
+EndGlobal
